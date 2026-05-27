@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceLens",
+  "description": "Intelligent Invoice & Document OCR tool entirely in the browser using Tesseract WASM and ONNX Layout modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
